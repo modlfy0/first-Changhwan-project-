@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://newsludgerecycling.netlify.app/sitemap.xml
